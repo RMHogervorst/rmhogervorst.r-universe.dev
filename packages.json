@@ -1,0 +1,16 @@
+[
+{
+"package":"gephi",
+"url":"https://github.com/RMHogervorst/gephi"
+},
+
+{
+"package":"pinboardr",
+"url":"https://github.com/RMHogervorst/pinboardr"
+},
+{
+"package":"badgecreatr",
+"url":"https://github.com/RMHogervorst/badgecreatr"
+}
+
+]
