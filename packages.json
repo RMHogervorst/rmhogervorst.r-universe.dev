@@ -11,6 +11,23 @@
 {
 "package":"badgecreatr",
 "url":"https://github.com/RMHogervorst/badgecreatr"
-}
-
+},
+  {
+    "package":"banana",
+    "url":"https://github.com/RMHogervorst/banana"
+  },
+  
+  {
+    "package":"nsapi",
+    "url":"https://github.com/RMHogervorst/nsapi"
+  },
+  
+  {
+    "package":"IMDB",
+    "url":"https://github.com/RMHogervorst/imdb"
+  },
+    {
+    "package":"coffeegeeks",
+    "url":"https://github.com/RMHogervorst/coffeegeeks"
+  }
 ]
